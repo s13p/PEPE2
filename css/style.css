@@ -2792,7 +2792,7 @@ body .btn-eight:hover {
 }
 
 .block-style-four {
-    background: #f37355;
+    background: #dcdcdc;
     box-shadow: 0px 25px 50px rgba(0, 73, 171, 0.05);
     border-radius: 15px;
     text-align: center;
@@ -2803,7 +2803,7 @@ body .btn-eight:hover {
 }
 
 .block-style-four:hover {
-    background: #f37355;
+    background: #ffffff;
 }
 
 .block-style-four .icon {
